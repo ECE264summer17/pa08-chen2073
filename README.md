@@ -90,8 +90,6 @@ e.g if input file contains character `‘a’` three times and ASCII value of `�
 To create and maintain the sorted list of trees according to their weight, you should implement a linked list, with each node containing the count and and an address that points to the root of binary tree. You should only create tree nodes for characters having non zero count in array `asciiCount`.
 We have also given you sample header file which has structure definitions that you will need to implement binary tree and linked list. You have the flexibility, however to design or modify all the files. 
 
-You will have to use bit-wise operations for generating the header information. You should use "`<<`", "`>>`" , "`|`" and "`&`" bit-wise operators and different masks to split the character into chunks of bits desired and shift operators to move the extracted bits to correct positions.
-
 Your program should read an input file (its filename will be provided to the program as `argv[1]`) and produce two output files :
 `pa08 inputFileName outputFilename1 outputFilename2 `
 
