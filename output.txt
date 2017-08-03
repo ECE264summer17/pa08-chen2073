@@ -1,0 +1,39 @@
+Tests for basic:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+Tests for gophers:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+Tests for para:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+Tests for prideandprejudice:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+Tests for unusual:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+Tests for woods:
+TEST CASE 1: (Sorted Output): 
+PASS
+TEST CASE 2: (Huffman Output): 
+PASS
+TEST CASE: valgrind
+memcheck.log.basic_0
+memcheck.log.gophers_0
+memcheck.log.para_0
+memcheck.log.prideandprejudice_0
+memcheck.log.unusual_0
+memcheck.log.woods_0
+ PASS
+Points: 5.000000 
